@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[葫芦君的心路历程]]></title>
   <link href="http://treenewbeee.github.io/atom.xml" rel="self"/>
   <link href="http://treenewbeee.github.io/"/>
-  <updated>2016-09-16T12:12:30+08:00</updated>
+  <updated>2016-09-16T13:35:08+08:00</updated>
   <id>http://treenewbeee.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[TreeNewBee]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
