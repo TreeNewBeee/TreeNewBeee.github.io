@@ -1,0 +1,17 @@
+---
+layout: post
+title: "张光劭小朋友的第一页"
+date: 2014-03-19 15:35:04 +0800
+comments: true
+categories: 
+---
+
+
+## 爸爸终于等到你了
+
+
+![image](https://api-t.yunpan.360.cn/intf.php?method=File.getThumbByNid&qid=29726524&nid=14721646829490065&size=640_960&devtype=web&v=1.0.1&rtick=14739140375921&sign=71cb9d0ba787e61ab24f6e1ca12f9a69&)
+
+
+
+{% video http://od2wibkj1.bkt.clouddn.com/GOPR0021.MP4 640 320 %}
