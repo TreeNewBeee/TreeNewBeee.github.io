@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://treenewbeee.github.io/atom.xml" rel="self"/>
+  <link href="http://treenewbeee.github.io/"/>
+  <updated>2016-09-16T12:12:30+08:00</updated>
+  <id>http://treenewbeee.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[张光劭小朋友的第一页]]></title>
+    <link href="http://treenewbeee.github.io/blog/2014/03/19/zgs001/"/>
+    <updated>2014-03-19T15:35:04+08:00</updated>
+    <id>http://treenewbeee.github.io/blog/2014/03/19/zgs001</id>
+    <content type="html"><![CDATA[<h2>爸爸终于等到你了</h2>
+
+<p><img src="https://api-t.yunpan.360.cn/intf.php?method=File.getThumbByNid&amp;qid=29726524&amp;nid=14721646829490065&amp;size=640_960&amp;devtype=web&amp;v=1.0.1&amp;rtick=14739140375921&amp;sign=71cb9d0ba787e61ab24f6e1ca12f9a69&amp;" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls ><source src='http://od2wibkj1.bkt.clouddn.com/GOPR0021.MP4' ></video></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[张光劭小朋友的第二页（测试页）]]></title>
+    <link href="http://treenewbeee.github.io/blog/2013/09/16/zgs002/"/>
+    <updated>2013-09-16T10:31:45+08:00</updated>
+    <id>http://treenewbeee.github.io/blog/2013/09/16/zgs002</id>
+    <content type="html"><![CDATA[<h1>这是测试页</h1>
+
+<h2>这是测试页</h2>
+
+<h3>这是测试页</h3>
+
+<p><video width='640' height='320' preload='metadata' controls ><source src='https://dl67.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=29726524&fname=GOPR0014.MP4&fhash=dd53dacf42e572eec2add085ea1ae7d09eb3f7a3&dt=67_67.3adeefbe9867cd821fe5da4ea4fd8821&v=1.0.1&rtick=14739936208350&open_app_id=0&devtype=web&sign=522515f7b2ec1695065c0626726a373d&' ></video></p>
+]]></content>
+  </entry>
+  
+</feed>
