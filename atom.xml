@@ -4,10 +4,10 @@
   <title><![CDATA[葫芦君的心路历程]]></title>
   <link href="http://treenewbeee.github.io/atom.xml" rel="self"/>
   <link href="http://treenewbeee.github.io/"/>
-  <updated>2016-09-16T18:54:24+08:00</updated>
+  <updated>2016-09-17T14:32:51+08:00</updated>
   <id>http://treenewbeee.github.io/</id>
   <author>
-    <name><![CDATA[TreeNewBee]]></name>
+    <name><![CDATA[TreeNewBee 陕ICP备16013007号]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -51,7 +51,7 @@
 
 <h3>这是测试页</h3>
 
-<p><video width='640' height='320' preload='metadata' controls ><source src='https://dl67.yunpan.360.cn/intf.php?method=Download.downloadFile&qid=29726524&fname=GOPR0014.MP4&fhash=dd53dacf42e572eec2add085ea1ae7d09eb3f7a3&dt=67_67.3adeefbe9867cd821fe5da4ea4fd8821&v=1.0.1&rtick=14739936208350&open_app_id=0&devtype=web&sign=522515f7b2ec1695065c0626726a373d&' ></video></p>
+<p><video width='640' height='320' preload='metadata' controls ><source src='http://zhangguangshao-10066004.cos.myqcloud.com/%E8%A7%86%E9%A2%91/%E5%BC%A0%E5%B8%88%E7%BE%BD-%E5%96%9C%E4%B8%8A%E7%9C%89%E6%A2%A2%5B68mtv.com%5D.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
